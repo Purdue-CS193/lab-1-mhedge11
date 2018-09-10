@@ -1,6 +1,6 @@
 ## Matthew Hedge's first CS193 Lab
 
-- Learning Github
+- Learning Github 
 - Getting familiar with new tools
 - Getting help from Sophmores, juniors, and seniors on using tools
 
